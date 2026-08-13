@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\bin\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.exe
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\bin\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.deps.json
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\bin\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\bin\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\bin\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.pdb
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2_ErickRamirez_24.Form1.resources
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\refint\Ejercicio2-ErickRamirez-24.dll
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.pdb
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\Ejercicio2-ErickRamirez-24.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\Ejercicio2-ErickRamirez-24\Ejercicio2-ErickRamirez-24\obj\Debug\net8.0-windows\ref\Ejercicio2-ErickRamirez-24.dll
